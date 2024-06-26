@@ -17,5 +17,5 @@ This project is implemented in [language] and utilizes [libraries/tools].
 [Provide instructions on how to run or use the File Transfer Tool.]
 
 ## License
-This project is licensed under [License Name]. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under Gowtham. See the [LICENSE.md](LICENSE.md) file for details.
 
